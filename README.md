@@ -2,9 +2,9 @@
 
 * [Website Ṭawng hrang hranga Documentation siam](https://github.com/xxai-doc)
 
-Website front-end code hi open source a ni a, lehlinna tihchangtlunna tura pui turin kan lawm hle
+Website frontend code hi open source a ni a, lehlinna tihchangtlunna tura pui turin kan lawm hle
 
-* [hmalam atanga code awm](https://github.com/xxai-art/web)
+* [Frontend Code hmanga siam a ni](https://github.com/xxai-art/web)
 * [Site pumpui tana ṭawng pack hrang hrang](https://github.com/xxai-art/web/tree/main/i18n)
 * [Login module hrang hrang atana tawng pack hrang hrang](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Website Ṭawng hrang hranga Documentation siam](https://github.com/xxai-doc)
